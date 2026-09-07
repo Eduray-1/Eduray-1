@@ -1,6 +1,6 @@
 # Hi there, I'm Audrey Esteban! 👋
 
-![Banner Image](https://imgur.com/a/IBVZexu)
+!(https://imgur.com/a/IBVZexu)
 
 ## About Me 🚀
 
