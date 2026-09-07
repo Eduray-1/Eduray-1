@@ -19,18 +19,14 @@ I'm a passionate **Tier 2 NOC Engineer** with experience in **CCNA, AWS, tech su
 ![AWS - Cloud Practitioner](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux - Unhatched](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 [ITIL 4 Foundations] | 
 [Cybersecurity - Introduction] | 
-[Lean Six Sigma - Green Belt] | 
+[Lean Six Sigma - Green Belt]
 
 ## Featured Projects 💻
 
 ### [Project 1: in progress]
-
-## Get in Touch 📬
-
-- **[LinkedIn]**(https://www.linkedin.com/in/eduray/)
