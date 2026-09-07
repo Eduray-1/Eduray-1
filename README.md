@@ -18,9 +18,14 @@ I'm a passionate **Tier 2 NOC Engineer** with experience in **CCNA, AWS, tech su
 ![CCNA](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![AWS - Cloud Practitioner](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Linux - Unhatched](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<img src="{https://www.zindiak.co.uk/blogs/what-you-need-to-know/common-mistakes-to-avoid-while-studying-for-itil-4-foundation?srsltid=AfmBOopahv5Ong5n9oIhQbWBwIzEKPhFK8GmZK4Ti9jYrX_xUyzeQS2l}"/>
-![Cybersecurity - Introduction](https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity)
-![Lean Six Sigma - Green Belt](<img width="197" height="255" alt="image" src="https://github.com/user-attachments/assets/8c22de40-76bf-4621-95d6-d6143ac81238" />)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![ITIL 4 Foundations]
+![Cybersecurity - Introduction]
+![Lean Six Sigma - Green Belt]
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Featured Projects 💻
 
