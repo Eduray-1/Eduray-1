@@ -1,6 +1,7 @@
 # Hi there, I'm Audrey Esteban! 👋
 
-!(https://imgur.com/a/IBVZexu)
+!<img width="1536" height="1024" alt="GitHub PP" src="https://github.com/user-attachments/assets/284c3036-beb7-4c3e-8543-7d7d5d7d1bea" />
+
 
 ## About Me 🚀
 
